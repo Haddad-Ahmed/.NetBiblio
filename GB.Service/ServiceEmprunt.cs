@@ -22,7 +22,7 @@ namespace GB.Service
         {
             
             if (!Empruntable(document))
-                Console.WriteLine("le document est deja emprunte");
+                Console.WriteLine("Doc Emprunter Deja");
             else {
                 Add(
                     new Emprunt() {

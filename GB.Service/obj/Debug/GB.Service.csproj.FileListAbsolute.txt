@@ -19,3 +19,24 @@ D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\Ges
 D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.Service\obj\Debug\GB.Service.csproj.CopyComplete
 D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.Service\obj\Debug\GB.Service.dll
 D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.Service\obj\Debug\GB.Service.pdb
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Service\bin\Debug\GB.Service.dll.config
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Service\bin\Debug\GB.Service.dll
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Service\bin\Debug\GB.Service.pdb
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Service\bin\Debug\EntityFramework.dll
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Service\bin\Debug\GB.Domain.dll
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Service\bin\Debug\GB.ServicePattern.dll
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Service\bin\Debug\GB.Data.dll
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Service\bin\Debug\GB.Domain.pdb
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Service\bin\Debug\GB.Domain.dll.config
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Service\bin\Debug\GB.ServicePattern.pdb
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Service\bin\Debug\GB.ServicePattern.dll.config
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Service\bin\Debug\EntityFramework.xml
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Service\bin\Debug\GB.Data.pdb
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Service\bin\Debug\GB.Data.dll.config
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Service\obj\Debug\GB.Service.csprojAssemblyReference.cache
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Service\obj\Debug\GB.Service.csproj.CoreCompileInputs.cache
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Service\obj\Debug\GB.Service.csproj.CopyComplete
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Service\obj\Debug\GB.Service.dll
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Service\obj\Debug\GB.Service.pdb

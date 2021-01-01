@@ -16,7 +16,7 @@ namespace GB.Data
         public DbSet<Emprunt> Emprunts { get; set; }
         public DbSet<Bibliotheque> Bibliotheques { get; set; }
 
-        public Context() : base("name=connexionBiblioDB") {
+        public Context() : base("name=BiblioDB") {
 
         }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)

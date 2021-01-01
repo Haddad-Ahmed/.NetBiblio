@@ -53,6 +53,7 @@
   <ItemGroup>
     <Compile Include="Configuration\DocumentConfig.cs" />
     <Compile Include="Context.cs" />
+    <Compile Include="Conventions\PrimaryKeyConvention.cs" />
     <Compile Include="Infrastructure\DataBaseFactory.cs" />
     <Compile Include="Infrastructure\Disposable.cs" />
     <Compile Include="Infrastructure\IDataBaseFactory.cs" />
@@ -60,17 +61,9 @@
     <Compile Include="Infrastructure\IUnitOfWork.cs" />
     <Compile Include="Infrastructure\RespositoryBase.cs" />
     <Compile Include="Infrastructure\UnitOfWork.cs" />
-    <Compile Include="Migrations\202012312007180_initialCreate.cs" />
-    <Compile Include="Migrations\202012312007180_initialCreate.designer.cs">
-      <DependentUpon>202012312007180_initialCreate.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202012312015004_initialCreate1.cs" />
-    <Compile Include="Migrations\202012312015004_initialCreate1.designer.cs">
-      <DependentUpon>202012312015004_initialCreate1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202101010236245_updatedEmprunt.cs" />
-    <Compile Include="Migrations\202101010236245_updatedEmprunt.designer.cs">
-      <DependentUpon>202101010236245_updatedEmprunt.cs</DependentUpon>
+    <Compile Include="Migrations\202101011145425_BdV2.cs" />
+    <Compile Include="Migrations\202101011145425_BdV2.designer.cs">
+      <DependentUpon>202101011145425_BdV2.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -86,14 +79,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202012312007180_initialCreate.resx">
-      <DependentUpon>202012312007180_initialCreate.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202012312015004_initialCreate1.resx">
-      <DependentUpon>202012312015004_initialCreate1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202101010236245_updatedEmprunt.resx">
-      <DependentUpon>202101010236245_updatedEmprunt.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202101011145425_BdV2.resx">
+      <DependentUpon>202101011145425_BdV2.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

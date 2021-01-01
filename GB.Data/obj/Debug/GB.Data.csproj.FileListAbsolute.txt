@@ -17,3 +17,20 @@ D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\Ges
 D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.Data\obj\Debug\GB.Data.csproj.GenerateResource.cache
 D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.Data\obj\Debug\GB.Data.Migrations.initialCreate1.resources
 D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.Data\obj\Debug\GB.Data.Migrations.updatedEmprunt.resources
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Data\bin\Debug\GB.Data.dll.config
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Data\bin\Debug\GB.Data.dll
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Data\bin\Debug\GB.Data.pdb
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Data\bin\Debug\EntityFramework.dll
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Data\bin\Debug\GB.Domain.dll
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Data\bin\Debug\GB.Domain.pdb
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Data\bin\Debug\GB.Domain.dll.config
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Data\bin\Debug\EntityFramework.xml
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Data\obj\Debug\GB.Data.csprojAssemblyReference.cache
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Data\obj\Debug\GB.Data.csproj.CoreCompileInputs.cache
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Data\obj\Debug\GB.Data.csproj.CopyComplete
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Data\obj\Debug\GB.Data.dll
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Data\obj\Debug\GB.Data.pdb
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Data\obj\Debug\GB.Data.csproj.GenerateResource.cache
+C:\Users\Haddad\Desktop\HaDDaD\Esprit\Education3C\Sem1\.Net\CC\GestionBibliotheque\GB.Data\obj\Debug\GB.Data.Migrations.BdV2.resources

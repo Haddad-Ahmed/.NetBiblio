@@ -3,7 +3,7 @@
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class initialCreate : DbMigration
+    public partial class BdV2 : DbMigration
     {
         public override void Up()
         {
@@ -16,7 +16,6 @@
                         Prenom = c.String(nullable: false),
                         Login = c.String(nullable: false),
                         Password = c.String(nullable: false),
-                        BibliothequeFK = c.Int(),
                         Bibliotheque_Id = c.Int(),
                     })
                 .PrimaryKey(t => t.Id)

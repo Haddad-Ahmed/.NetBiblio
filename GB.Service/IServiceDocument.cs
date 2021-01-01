@@ -12,7 +12,6 @@ namespace GB.Service
     public interface IServiceDocument : IService<Document>
     {
 
-
         IEnumerable<Document> ChercherDocument(Bibliotheque biblio, string titre);
 
     }
