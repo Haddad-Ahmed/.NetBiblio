@@ -1,0 +1,12 @@
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.Domain\bin\Debug\GB.Domain.dll.config
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.Domain\bin\Debug\GB.Domain.dll
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.Domain\bin\Debug\GB.Domain.pdb
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.Domain\bin\Debug\EntityFramework.dll
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.Domain\bin\Debug\EntityFramework.xml
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.Domain\obj\Debug\GB.Domain.csprojAssemblyReference.cache
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.Domain\obj\Debug\GB.Domain.csproj.CoreCompileInputs.cache
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.Domain\obj\Debug\GB.Domain.csproj.CopyComplete
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.Domain\obj\Debug\GB.Domain.dll
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.Domain\obj\Debug\GB.Domain.pdb

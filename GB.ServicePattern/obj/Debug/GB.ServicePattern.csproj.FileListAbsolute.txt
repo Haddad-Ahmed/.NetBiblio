@@ -1,0 +1,16 @@
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.ServicePattern\bin\Debug\GB.ServicePattern.dll.config
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.ServicePattern\bin\Debug\GB.ServicePattern.dll
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.ServicePattern\bin\Debug\GB.ServicePattern.pdb
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.ServicePattern\bin\Debug\GB.Data.dll
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.ServicePattern\bin\Debug\EntityFramework.dll
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.ServicePattern\bin\Debug\GB.Domain.dll
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.ServicePattern\bin\Debug\GB.Data.pdb
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.ServicePattern\bin\Debug\GB.Data.dll.config
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.ServicePattern\bin\Debug\EntityFramework.xml
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.ServicePattern\bin\Debug\GB.Domain.pdb
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.ServicePattern\bin\Debug\GB.Domain.dll.config
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.ServicePattern\obj\Debug\GB.ServicePattern.csprojAssemblyReference.cache
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.ServicePattern\obj\Debug\GB.ServicePattern.csproj.CoreCompileInputs.cache
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.ServicePattern\obj\Debug\GB.ServicePattern.csproj.CopyComplete
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.ServicePattern\obj\Debug\GB.ServicePattern.dll
+D:\9raya @_@ !\4eme annee\semestre 1\. Net\Revision\Projet Gestion de Biblio\GestionBibliotheque\GB.ServicePattern\obj\Debug\GB.ServicePattern.pdb
