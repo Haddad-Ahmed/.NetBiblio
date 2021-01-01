@@ -15,11 +15,14 @@ namespace GB.Web.Controllers
         ServiceDocument DS = new ServiceDocument();
         ServiceLivre LS = new ServiceLivre();
         // GET: Livre
+        
         public ActionResult Index()
-        {  // IServiceLivre livreService = new LivreService();
-            List<Livre> livres = Session["livres"] as List<Livre>;
-            return View(livres);
-
+        {
+            Adherent user = new Adherent();
+            user = AS.GetById((int)Session["currentUser"]);
+            ViewData["user"] = user.Nom + " " + user.Prenom;
+            IEnumerable<Livre> livres = LS.GetLivres(user.Bibliotheque);
+            return View("Index", livres);
         }
 
         [HttpPost]
@@ -111,9 +114,8 @@ namespace GB.Web.Controllers
             user = AS.GetById((int)Session["currentUser"]);
             Document dc = new Document();
             dc = DS.GetById(id);
-
             ES.Emprunter(dc, user);
-            return RedirectToAction("list");
+            return RedirectToAction("Index");
         }
     }
 }
